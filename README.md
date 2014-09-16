@@ -2,6 +2,8 @@
 
 A Hubot script that define alternative command
 
+![](http://img.f.hatena.ne.jp/images/fotolife/b/bouzuya/20140916/20140916230258.gif)
+
 ## Installation
 
     $ npm install git://github.com/bouzuya/hubot-alternative.git
@@ -22,7 +24,7 @@ or
 
     (define ppp)
     bouzuya> hubot alt ppp ping
-      hubot> ppp=ping
+      hubot> alias ppp=ping
 
     (execute ppp)
     bouzuya> hubot ppp
