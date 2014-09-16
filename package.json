@@ -1,6 +1,6 @@
 {
   "name": "hubot-alternative",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Hubot script that define alternative command",
   "main": "index.js",
   "scripts": {
